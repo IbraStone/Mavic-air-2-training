@@ -12,7 +12,7 @@ official DJI user manual (v1.4) and a beginner video guide.
 - Manual page finder and official DJI links
 
 ## View it
-https://ibrastone.github.io/Mavic-air-2-training/?v=2#m10
+https://ibrastone.github.io/Mavic-air-2-training/
 
 ## Notes
 Unofficial training aid. Always check DJI's current documents and FAA and local rules before flying.
